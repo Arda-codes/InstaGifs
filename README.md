@@ -1,6 +1,6 @@
 # InstaGifs
 
-A fast, native desktop tool built in Rust (`eframe` / `egui`) for turning still images into looping, film-grain animated GIFs with a customizable corner watermark.
+A fast, native Rust desktop tool (`eframe` / `egui`) for turning still images into GIFs without the hassle—built for uploading to Giphy so you can send them to friends as GIFs on Discord and Instagram.
 
 ## Features
 
