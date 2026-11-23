@@ -1,0 +1,8 @@
+/target/
+/instagifs
+*.gif
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
